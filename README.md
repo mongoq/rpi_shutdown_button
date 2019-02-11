@@ -6,6 +6,8 @@
 
 ---
 
+SICHTEN: 
+
 http://razzpisampler.oreilly.com/ch07.html
 
 https://www.raspberrypi.org/forums/viewtopic.php?t=133665

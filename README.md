@@ -10,5 +10,9 @@ https://raspberrypi.stackexchange.com/questions/8734/execute-script-on-start-up
 
 ---
 
+Start at Raspbian Startup ...
+
+---
+
 ![Pinout](http://razzpisampler.oreilly.com/images/rpck_1101.png)
 

@@ -1,6 +1,9 @@
 # Raspberry Pi Shutdown Button
 
 ---
+![Push Button](https://static.thenounproject.com/png/509859-200.png)
+
+---
 
 http://razzpisampler.oreilly.com/ch07.html
 

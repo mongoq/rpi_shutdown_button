@@ -15,6 +15,7 @@ https://raspberrypi.stackexchange.com/questions/8734/execute-script-on-start-up
 ---
 
 Start at Raspbian Startup ... by ... rc.local ...
+Put 
 
 ---
 

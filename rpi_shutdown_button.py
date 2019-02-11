@@ -15,4 +15,4 @@ while True:
         print('Shutdown initiated ...')
         time.sleep(1)
         from subprocess import call
-        call("sudo shutdown -h now", shell=True)
+        call("shutdown -h now", shell=True)

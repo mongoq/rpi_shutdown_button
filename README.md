@@ -2,7 +2,7 @@
 
 ![Push Button](https://static.thenounproject.com/png/509859-200.png)
 
-**Push to shutdown Raspberry Pi ...**
+**Push to shut Raspberry Pi down ...**
 
 ---
 

@@ -1,8 +1,6 @@
-TODO !!! BISHER NUR MATERIALSAMMLUNG
-
----
-
 #!/usr/bin/env python
+
+#TEST THIS !!!
 
 import RPi.GPIO as GPIO
 import time

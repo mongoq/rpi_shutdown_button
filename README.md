@@ -17,7 +17,7 @@ https://raspberrypi.stackexchange.com/questions/8734/execute-script-on-start-up
 ---
 
 Start at Raspbian Startup ... by ... rc.local ...
-Put rpi_shutdown_button.py in ... folder ...
+Put rpi_shutdown_button.py in ... folder ... root ?!
 
 ---
 

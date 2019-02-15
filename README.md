@@ -24,8 +24,11 @@ In /etc/rc.local: /home/pi/projects/rpi_shutdown_button/rpi_shutdown_button.py
 chmod +x /home/pi/projects/rpi_shutdown_button/rpi_shutdown_button.py
 
 ---
+
 Raspberry Pi 1
 ![Pinout](http://razzpisampler.oreilly.com/images/rpck_1101.png)
+
+---
 
 Raspberry Pi 2/3
 ![Pinout 2](https://www.jameco.com/Jameco/workshop/circuitnotes/raspberry_pi_circuit_note_fig2.jpg)

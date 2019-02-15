@@ -18,10 +18,10 @@ Service à la https://github.com/workinghard/jslisten
 
 ---
 
-Start at Raspbian Startup ... by ... rc.local ...
-Put rpi_shutdown_button.py in ... folder ... root ?!
+Start at Raspbian Startup by putting it in /etc/rc.local
 
 In /etc/rc.local: /home/pi/projects/rpi_shutdown_button/rpi_shutdown_button.py
+chmod +x /home/pi/projects/rpi_shutdown_button/rpi_shutdown_button.py
 
 ---
 Raspberry Pi 1

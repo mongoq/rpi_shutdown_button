@@ -28,6 +28,9 @@ chmod +x /home/pi/projects/rpi_shutdown_button/rpi_shutdown_button.py
 
 ---
 
+Pins 18 and GND - short them to force shutdown ...
+
+---
 Raspberry Pi 1
 ![Pinout](http://razzpisampler.oreilly.com/images/rpck_1101.png)
 

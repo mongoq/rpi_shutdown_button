@@ -18,6 +18,8 @@ https://raspberrypi.stackexchange.com/questions/8734/execute-script-on-start-up
 
 Service à la https://github.com/workinghard/jslisten
 
+https://maker-tutorials.com/raspberry-pi-mit-einer-bueroklammer-ausschalten-bzw-herunterfahren/
+
 ---
 
 Start at Raspbian Startup by putting it in /etc/rc.local

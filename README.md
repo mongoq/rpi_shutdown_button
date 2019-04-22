@@ -6,6 +6,13 @@
 
 ---
 
+**Implemented as a service: https://github.com/Cronixx/Raspberry-Systemd-Shutdown-Button-Service (Thanks to Jerry (!))**
+**(100% CPU time fixed ...)**
+**^ use this ;-)**
+
+---
+
+
 To sort:
 
 PROBLEM: USES 100% CPU TIME
@@ -17,11 +24,6 @@ https://www.raspberrypi.org/forums/viewtopic.php?t=133665
 https://raspberrypi.stackexchange.com/questions/8734/execute-script-on-start-up
 
 https://maker-tutorials.com/raspberry-pi-mit-einer-bueroklammer-ausschalten-bzw-herunterfahren/
-
----
-
-Implemented as a service: https://github.com/Cronixx/Raspberry-Systemd-Shutdown-Button-Service (Thanks to Jerry (!))
-100% CPU time fixed ...
 
 ---
 

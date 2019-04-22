@@ -6,7 +6,7 @@
 
 ---
 
-SICHTEN: 
+To sort:
 
 PROBLEM: USES 100% CPU TIME
 

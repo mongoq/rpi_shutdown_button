@@ -8,7 +8,7 @@
 
 **Implemented as a service: https://github.com/Cronixx/Raspberry-Systemd-Shutdown-Button-Service**
 
-(Thanks to Jerry (!)) - (100% CPU time fixed ...) ^ use this ;-)
+Thanks to Jerry (!)) - 100% CPU time fixed ... ^ use this ;-)
 
 ---
 
